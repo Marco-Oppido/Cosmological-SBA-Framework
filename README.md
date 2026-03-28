@@ -17,7 +17,7 @@ scripts/
 figures/                                # Figures referenced by the manuscript
 outputs/                                # Generated artifacts (CSV/TXT/JSON) — created by the proofbench
 README.md                               # This file
-LICENSE                                 # Add your chosen license before public release
+LICENSE                                 # MIT
 ```
 
 **Important:** the repository intentionally exposes one canonical script (`scripts/sba_theory_proofbench.py`). That script generates all verification artifacts; no additional scripts are required.
